@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/ME3M7CU/Downloads/Ex_Files_SQL_EssT/Ex_Files_SQL_EssT/Exercise Files/WSDA_Music.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="4026"/><column_width id="4" width="0"/><expanded_item id="3" parent="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Track" custom_title="0" dock_id="1" table="4,5:mainTrack"/><dock_state state="000000ff00000000fd00000001000000020000024800000211fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000002480000015c00ffffff000002480000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Album" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="56"/><column index="2" value="280"/><column index="3" value="53"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Artist" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="51"/><column index="2" value="179"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Customer" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="78"/><column index="3" value="101"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="156"/><column index="7" value="54"/><column index="8" value="117"/><column index="9" value="85"/><column index="10" value="156"/><column index="11" value="148"/><column index="12" value="234"/><column index="13" value="88"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Employee" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="70"/><column index="3" value="70"/><column index="4" value="156"/><column index="5" value="67"/><column index="6" value="156"/><column index="7" value="156"/><column index="8" value="218"/><column index="9" value="85"/><column index="10" value="38"/><column index="11" value="54"/><column index="12" value="70"/><column index="13" value="140"/><column index="14" value="140"/><column index="15" value="195"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Genre" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="54"/><column index="2" value="148"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Invoice" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="62"/><column index="2" value="76"/><column index="3" value="156"/><column index="4" value="300"/><column index="5" value="156"/><column index="6" value="72"/><column index="7" value="117"/><column index="8" value="105"/><column index="9" value="62"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="InvoiceLine" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="85"/><column index="2" value="64"/><column index="3" value="53"/><column index="4" value="59"/><column index="5" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MediaType" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="80"/><column index="2" value="218"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Playlist" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="61"/><column index="2" value="210"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PlaylistTrack" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="0" mode="0"/></sort><column_widths><column index="1" value="63"/><column index="2" value="53"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Track" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="5" mode="0"/></sort><column_widths><column index="1" value="51"/><column index="2" value="195"/><column index="3" value="58"/><column index="4" value="83"/><column index="5" value="56"/><column index="6" value="241"/><column index="7" value="76"/><column index="8" value="85"/><column index="9" value="59"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="V_AvgSales" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="132"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="V_Tracks_Invoiceline" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="62"/><column index="2" value="59"/><column index="3" value="56"/><column index="4" value="187"/><column index="5" value="257"/><column index="6" value="76"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">-- This is a comment
+/*This is a multiline comment
+Created by:
+Created Date:
+Query Description
+*/
+
+</sql><sql name="SQL 2">/*
+Description: Displays customer's First Name, Last Name and Email addresses
+*/
+/*SELECT
+	FirstName AS [Customer First Name],
+	LastName AS &quot;Customer Last Name&quot;,
+	Email AS EMAIL
+FROM
+	Customer
+ORDER BY
+	FirstName ASC,
+	LastName DESC
+LIMIT 10
+*/</sql><sql name="SQL 3">-- How many customers purchased 2 songs as 99 cents each
+/*
+Description 1: How many customers had invoice of 1.98 dollars
+Description 2: How many customers had invoice between 1.98 dollars and 5 dollars
+Description 3: How many customers had invoice is either 1.98 dollars or 3.96 dollars exactly
+Description 4: How many customers purchased from Brussels
+Description 5: How many customers purchased from Brussels, Orlando or Paris
+Description 6: How many customers purchased from city starting with letter &quot;B&quot;
+Description 7: How many customers purchased from city with letter &quot;B&quot; anywhere in their name
+Description 8: How many customers purchased on 22nd May, 2010&quot;
+Description 9: How many customers purchased after 22nd May, 2010 and invoice less than 3 dollars&quot;
+Description 10: How many customers purchased from billing city starting with letter &quot;P&quot; or &quot;D&quot;
+Description 11: How many customers purchased invoices greater than 1.98 dollars from all billing city starting with letter &quot;P&quot; or &quot;D&quot;
+
+Description 12: How many customers met target purchase as well the sales categories below:
+0.99 to 1.99 dollars: Baseline Purchase
+2.00 to 6.99 dollars: Low Purchase
+7.00 to 15.00 dollars: Target Purchase
+Above 15.00 dollars: Top Performer
+*/
+-- &quot;%&quot; signe means &quot;I don't care what comes next&quot; = used with LIKE Operator (WILD CARD CLAUSE)
+-- PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction
+-- BEMDAS: Brackets, Exponents, Multiplication/Division, Addition/Subtraction
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	Total = 1.98
+ORDER BY
+	InvoiceId*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	Total BETWEEN 1.98 AND 5.00
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	Total IN (1.98,3.96)
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	BillingCity = &quot;Brussels&quot;
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	BillingCity IN (&quot;Brussels&quot;,&quot;Orlando&quot;,&quot;Paris&quot;)
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	BillingCity like &quot;B%&quot;
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	BillingCity like &quot;%B%&quot;
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	date(InvoiceDate) = &quot;2010-05-22&quot;
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	date(InvoiceDate) &gt; &quot;2010-05-22&quot; AND Total &lt; 3.00
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	BillingCity like &quot;P%&quot; OR BillingCity like &quot;D%&quot;
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	Invoice
+WHERE
+	Total &gt; 1.98 AND (BillingCity like &quot;P%&quot; OR BillingCity like &quot;D%&quot;)
+ORDER BY
+	InvoiceId
+*/
+/*SELECT
+	InvoiceId,
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total,
+	CASE
+	WHEN Total &lt; 2.00 THEN 'Baseline Purchase'
+	WHEN Total BETWEEN 2.00 AND 6.99 THEN 'Low Purchase'
+	WHEN Total BETWEEN 7.00 AND 15.00 THEN 'Target Purchase'
+	ELSE 'Top Performer'
+	END AS &quot;Purchase Type&quot;
+FROM
+	Invoice
+WHERE
+	&quot;Purchase Type&quot; = &quot;Top Performer&quot;
+ORDER BY
+	InvoiceId
+*/</sql><sql name="SQL 4">/*
+Description 1: Inner Join for invoive and customer table using Customer Id Field
+Description 2: Join 3 tables
+Description 3: Use aliases and specify columns to display
+Description 4: What employees are responsible for top 10 highest individual sales? (Joining more than 2 tables.)
+*/
+/*SELECT
+	*
+FROM
+	Invoice
+INNER JOIN
+	Customer
+ON
+	Invoice.CustomerId = Customer.CustomerId
+ORDER BY
+	Customer.CustomerId
+*/
+/*SELECT
+	*
+FROM
+	Invoice
+INNER JOIN
+	Customer
+ON
+	Invoice.CustomerId = Customer.CustomerId
+INNER JOIN
+	Employee
+ON
+	Customer.SupportRepId = Employee.EmployeeId
+ORDER BY
+	Customer.CustomerId
+*/
+/*SELECT
+	c.FirstName,
+	c.LastName,
+	i.InvoiceId,
+	i.CustomerId,
+	i.InvoiceDate,
+	i.total
+FROM
+	Invoice AS I
+INNER JOIN
+	Customer AS C
+ON
+	I.CustomerId = C.CustomerId
+ORDER BY
+	C.CustomerId
+*/
+/*SELECT
+	e.EmployeeId,
+	e.FirstName,
+	e.LastName,
+	e.Title,
+	c.FirstName,
+	c.LastName,
+	i.InvoiceId,
+	i.CustomerId,
+	i.InvoiceDate,
+	i.total
+FROM
+	Invoice as i
+INNER JOIN
+	Customer as c
+ON
+	i.CustomerId = c.CustomerId
+INNER JOIN
+	Employee as e
+ON
+	c.SupportRepId = e.EmployeeId
+ORDER BY
+	i.total DESC
+LIMIT 10
+*/</sql><sql name="SQL 5">/*
+TOPIC: FUNCTIONS
+Description1: USA Customer details with Address concatenate to form the mailing address
+Description2: USA Customer details with Address (truncate postalcode)
+Description3: USA Customer details with Address (upper and lower functions)
+Description4: Find employee age using birthdates (Date Function)
+Description5: Calculate total global sales, average global sales, maximum global sales, minimum global sales, count number of global sales (Aggregate Functions), Nesting function (round)
+*/
+/*SELECT
+	c.FirstName,
+	c.LastName,
+	c.Address,
+	FirstName || ' ' || LastName || ', ' || Address || ', ' || City || ', ' || State || ' - ' || PostalCode AS 'Mailing Address'
+FROM
+	Customer as c
+WHERE
+	c.Country = 'USA'
+*/
+/*SELECT
+	c.FirstName,
+	c.LastName,
+	c.Address,
+	FirstName || ' ' || LastName || ', ' || Address || ', ' || City || ', ' || State || ' - ' || PostalCode AS 'Mailing Address',
+	length(PostalCode),
+	substr(PostalCode,1,5) as 'Postal Code'
+FROM
+	Customer as c
+WHERE
+	c.Country = 'USA'
+*/
+/*SELECT
+	c.FirstName,
+	c.LastName,
+	c.Address,
+	FirstName || ' ' || LastName || ', ' || Address || ', ' || City || ', ' || State || ' - ' || PostalCode AS 'Mailing Address',
+	length(PostalCode),
+	substr(PostalCode,1,5) as 'Postal Code',
+	upper(FirstName) as 'First Name All Caps',
+	lower(LastName) as 'Last Name All Small'
+FROM
+	Customer as c
+WHERE
+	c.Country = 'USA'
+*/
+/*SELECT
+	FirstName,
+	LastName,
+	BirthDate,
+	strftime('%Y-%m-%d',BirthDate) AS 'BirthDate w/o TimeCode',
+	strftime('%Y-%m-%d','now') - strftime('%Y-%m-%d',BirthDate) AS 'Employee Age'
+FROM
+	Employee
+*/
+/*SELECT
+	SUM(Total) AS 'Total Sales',
+	round(avg(Total),2) AS 'Average Sales',
+	max(Total) AS 'Maximum Sales',
+	min(Total) AS 'Minimum Sales',
+	count(*) AS 'Sales Count'
+FROM
+	Invoice
+*/
+</sql><sql name="SQL 6">/*
+GROUPING - Group By
+Descriprion 1 : Which cities have the highest sales?
+Description 2 : Average sales for each City
+Description 3 : Average sales for each City starting with letter P
+Description 4 : Average sales for cities above 5 dollars
+Description 5 : Average sales for cities above 5 dollars starting with B
+Description 6 : Average sales for each City and Country
+*/
+/*SELECT
+	BillingCity,
+	round(sum(total),2)
+FROM
+	Invoice
+GROUP By
+	BillingCity
+ORDER By
+	BillingCity
+*/
+/*SELECT
+	BillingCity,
+	round(avg(total),2)
+FROM
+	Invoice
+GROUP By
+	BillingCity
+ORDER By
+	BillingCity
+*/
+/*SELECT
+	BillingCity,
+	round(avg(total),2)
+FROM
+	Invoice
+WHERE
+	BillingCity like 'L%'
+GROUP By
+	BillingCity
+ORDER By
+	BillingCity
+*/
+/*SELECT
+	BillingCity,
+	round(avg(total),2)
+FROM
+	Invoice
+GROUP By
+	BillingCity
+HAVING
+	avg(total) &gt; 5
+ORDER By
+	BillingCity
+*/
+/*SELECT
+	BillingCity,
+	round(avg(total),2)
+FROM
+	Invoice
+WHERE
+	BillingCity like 'B%'
+GROUP By
+	BillingCity
+HAVING
+	avg(total) &gt; 5
+ORDER By
+	BillingCity
+*/
+/*SELECT
+	BillingCountry,
+	BillingCity,
+	round(avg(total),2)
+FROM
+	Invoice
+GROUP By
+	BillingCountry,
+	BillingCity
+ORDER By
+	BillingCountry
+*/</sql><sql name="SQL 7">/*NESTED QUERIES/ SUBQUERIES
+Description 1: Gather info about all invoices less than average
+Description 2: Comparison between city average and global average
+Description 3: Invoice dates after date with invoice Id 251
+Description 4: Invoice dates after date with invoice Id 251,252,254 (Multiple values)
+Description 5: Distinct and subqueries | Which tracks are not selling
+*/
+/*SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	total
+From
+	Invoice
+WHERE
+	total &lt; (SELECT avg(total) from Invoice)
+Order By
+	total DESC
+*/
+/*SELECT
+	BillingCity,
+	avg(total) as 'City Average',
+	(SELECT avg(total) FROM Invoice) as 'Global Average',
+	avg(total) - (SELECT avg(total) FROM Invoice) as 'Difference'
+FROM
+	Invoice
+GROUP By BillingCity
+Order By BillingCity
+*/
+/*SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity
+FROM
+	Invoice
+WHERE
+	InvoiceDate &gt; 
+	(SELECT InvoiceDate
+	FROM Invoice
+	WHERE InvoiceId = 251)
+*/
+/*SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity
+FROM
+	Invoice
+WHERE
+	InvoiceDate IN
+	(SELECT InvoiceDate
+	FROM Invoice
+	WHERE InvoiceId IN (251,252,254))
+*/
+/*SELECT
+	TrackId,
+	Composer,
+	Name
+FROM
+	Track
+WHERE
+	TrackId NOT IN
+	(SELECT DISTINCT TrackId
+	FROM InvoiceLine
+	Order BY TrackId)
+*/</sql><sql name="SQL 8">/*VIEWS
+Create a VIEW
+*/
+/*CREATE VIEW V_AvgSales AS
+SELECT
+	round(avg(total),2) AS 'Average Sales'
+FROM
+	Invoice
+*/
+--SELECT name FROM sqlite_master WHERE type = 'view'
+/*
+CREATE VIEW V_Tracks_Invoiceline AS
+SELECT
+	il.InvoiceId,
+	il.UnitPrice,
+	il.Quantity,
+	t.Name,
+	t.Composer,
+	t.Milliseconds
+FROM
+	InvoiceLine as il
+INNER JOIN
+	Track as t
+ON
+	il.TrackId = t.TrackId
+*/</sql><sql name="Edit View V_AvgSales">-- Edit View V_AvgSales*
+/*DROP VIEW IF EXISTS &quot;main&quot;.&quot;V_AvgSales&quot;;
+CREATE VIEW V_AvgSales AS
+SELECT
+	avg(total) AS 'Average Sales'
+FROM
+	Invoice
+*/</sql><sql name="SQL 10">-- DML | Add artist name to artist table (Inserting Data)
+/*INSERT INTO
+	Artist(Name)
+	VALUES('Bob Marley')
+*/	
+-- DML | Update artist name to artist table (Updating Data)
+/*UPDATE
+Artist
+SET Name = 'Damien Marley'
+WHERE
+	ArtistId = 276
+*/
+-- DML | Delete artist name to artist table (Deleting Data)
+/*DELETE FROM
+	Artist
+WHERE
+	ArtistId = 276
+*/</sql><sql name="SQL 11">
+/*SELECT
+	TrackId,
+	Composer
+FROM
+	Track*/
+/*SELECT
+	Name
+FROM
+	Track
+ORDER By
+	Name DESC*/
+/*SELECT
+	LastName
+FROM
+	Customer
+WHERE
+	LastName like 'G%'
+*/</sql><current_tab id="0"/></tab_sql></sqlb_project>
