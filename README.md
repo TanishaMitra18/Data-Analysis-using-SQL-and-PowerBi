@@ -39,9 +39,9 @@ The furthest he has gotten in his own attempts to analyze the company data is fi
 
 ### Images for Reference
 
-[image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/86b20a9d6e33312fa1982fe68ac2b99fdac71a6f/WSDA%20Music_moneyproblem01.png)
+![image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/86b20a9d6e33312fa1982fe68ac2b99fdac71a6f/WSDA%20Music_moneyproblem01.png)
 
-[image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/86b20a9d6e33312fa1982fe68ac2b99fdac71a6f/WSDA%20Music_moneyproblem02.png)
+![image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/86b20a9d6e33312fa1982fe68ac2b99fdac71a6f/WSDA%20Music_moneyproblem02.png)
 
 ### Sqlite file User Instructions
 - **SQLite file link:** [WSDA Music_Missing Money Problem](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-andPowerBi/blob/1e25ab4e79926a80fe50c6743d6bf54ed6de6d0d/WSDA_Find%20Missing%20Money.sqbpro)
