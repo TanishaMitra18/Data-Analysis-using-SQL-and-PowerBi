@@ -47,3 +47,52 @@ The furthest he has gotten in his own attempts to analyze the company data is fi
 - **SQLite file link:** [WSDA Music_Missing Money Problem](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-andPowerBi/blob/1e25ab4e79926a80fe50c6743d6bf54ed6de6d0d/WSDA_Find%20Missing%20Money.sqbpro)
 - Query Description/Question mentioned in the file
 - Query Code mentioned below query descriptions
+
+## Project 3: Business Performance Analytics Report (SQL + Power BI)
+
+- Built a SQL project with Power BI integration for data visualization and reporting.
+- Combines SQL queries + interactive visuals for executives, managers, and analysts.
+- Focus on revenue, customers, products, stores, staff, and inventory.
+
+### Report Contents
+
+**Tab 1: Executive Overview**
+- KPIs: Revenue, Orders, Customers, Avg Order Value
+- Revenue trend by month
+- Top 10 products by revenue
+- Revenue by city/state
+
+**Tab 2: Customer & Product Insights**
+- New vs Returning customers
+- Top 10 customers by lifetime value
+- Revenue by category
+- Revenue by brand
+- Yearly trend for top 10 products
+
+**Tab 3: Store, Staff & Inventory**
+- Revenue per store
+- Staff performance
+- Stock levels by store & product
+- Out‑of‑stock alerts (Highlight turns 'Red' once Stock reaches zero)
+- Inventory vs demand
+
+### Report Highlights
+- Designed an end-to-end interactive Power BI dashboard using the bike sales dataset.
+- Analysed 8.58M+ revenue, 1M customers, and 1.6K orders using key KPIs.
+- Built state-wise revenue heatmap to identify high-performing regions (CA, TX, NY).
+- Identified Top 10 revenue-generating products and yearly sales trends (2016–2018).
+- Performed customer segmentation to compare one-time vs regular customers.
+- Compared brand and category-wise performance to highlight best-selling brands (Trek, Electra, Surly).
+- Added employee-level performance metrics to track sales efficiency.
+- Monitored store-wise revenue, inventory levels, and demand vs supply patterns.
+- Created interactive slicers to filter by product and store for deeper insights.
+- Delivered a complete business insights view covering sales, operations, and customer behavior.
+
+### Tech Stack
+- SQL → data modeling & queries
+- MS Excel → Importing Data
+- Power BI → visualization & dashboards
+
+### Files attached for Reference
+
+
