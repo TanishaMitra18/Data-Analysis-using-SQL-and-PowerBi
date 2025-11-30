@@ -93,6 +93,7 @@ The furthest he has gotten in his own attempts to analyze the company data is fi
 - MS Excel → Importing Data
 - Power BI → visualization & dashboards
 
-### Files attached for Reference
-
+### Files and Links attached for Reference
+- **Dataset Source:** [Bike Sales Analystics](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
+- 
 
