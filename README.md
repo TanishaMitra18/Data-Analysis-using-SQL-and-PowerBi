@@ -101,4 +101,9 @@ The furthest he has gotten in his own attempts to analyze the company data is fi
 
 ### Business Analytics Report Images for Reference
 
+![image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/9bfcf4cf8072e079273ca42ecaa3af3e054f2f3d/Bike%20Sales_Executive%20Overview.png)
+
+![image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/9bfcf4cf8072e079273ca42ecaa3af3e054f2f3d/Bike%20Sales_Customer%20and%20Product%20Insights.png)
+
+![image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/9bfcf4cf8072e079273ca42ecaa3af3e054f2f3d/Bike%20Sales_Store%2C%20Staff%20and%20Inventory.png)
 
