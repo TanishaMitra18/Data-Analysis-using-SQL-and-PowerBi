@@ -90,10 +90,15 @@ The furthest he has gotten in his own attempts to analyze the company data is fi
 
 ### Tech Stack
 - SQL → data modeling & queries
-- MS Excel → Importing Data
+- MS Excel → Importing SQL Queried Tables
 - Power BI → visualization & dashboards
 
 ### Files and Links attached for Reference
 - **Dataset Source:** [Bike Sales Analystics](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
-- 
+- **SQL File Link:** [Bike Sales SQL Analytics](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/858cebfdf661d6e15f757283d7ef7daf961d9948/Bike%20Sales.sqbpro)
+- **Excel File Link:** [SQL Queried Tables](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/3ca7dd78b3944304d2ac240b9b92349f44d35949/Bike%20Sales%20Query%20Results.xlsx)
+- **PowerBI File Link:** [Business Analytics Report](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/3ca7dd78b3944304d2ac240b9b92349f44d35949/Bike%20Sales%20Report.pbix)
+
+### Business Analytics Report Images for Reference
+
 
