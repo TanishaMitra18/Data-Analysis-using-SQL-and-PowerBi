@@ -107,3 +107,9 @@ The furthest he has gotten in his own attempts to analyze the company data is fi
 
 ![image-url.png](https://github.com/TanishaMitra18/Data-Analysis-using-SQL-and-PowerBi/blob/9bfcf4cf8072e079273ca42ecaa3af3e054f2f3d/Bike%20Sales_Store%2C%20Staff%20and%20Inventory.png)
 
+## Contact
+- Reach me via email: tanishamitra1810@gmail.com
+- Connect on LinkedIn: [Tanisha Mitra (Linkedin)](https://www.linkedin.com/in/tanisha-mitra-38a154254/)
+
+---
+⭐ **Thanks for checking out my projects! Feel free to explore and use them.**
